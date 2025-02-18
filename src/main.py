@@ -1,7 +1,6 @@
 import hints
 import tBot
-
+import asyncio
 
 if __name__ == "__main__":
-    import asyncio
     asyncio.run(tBot.main())
